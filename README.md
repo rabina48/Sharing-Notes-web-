@@ -5,7 +5,10 @@ It is a old notes shareing web site.
 
 ***Note sharing website***
 
-Software languages used :
+Software 
+-Xampp Apache server
+
+languages used :
   -HTML5
   -CSS
   -PHP
