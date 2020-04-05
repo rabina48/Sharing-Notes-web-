@@ -9,8 +9,6 @@ Software
 -Xampp Apache server
 
 languages used :
-  -HTML5
-  -CSS
-  -PHP
+  HTML5 | CSS | PHP
 
 
